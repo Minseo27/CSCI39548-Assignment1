@@ -2,6 +2,7 @@ body {
     color: rgb(106, 26, 26);
     background-color: antiquewhite;
     text-align: center;
+    font-style: italic;
 }
 
 table {
@@ -12,8 +13,10 @@ table {
 td {
     padding: 10px;
     border: 1px ridge;
+    font-style: normal;
 }
 
 a {
     color: black;
+    font-style: normal;
 }
