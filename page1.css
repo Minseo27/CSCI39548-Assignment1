@@ -1,8 +1,10 @@
 body {
     background-color: rgb(15, 101, 154);
+    font-style: italic;
 }
 
 a {
     padding-top: 10px;
     color: black;
+    font-style: normal;
 }
