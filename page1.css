@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(68, 151, 203);
+    font-style: italic;
+    color: whitesmoke;
+}
+
+a {
+    padding-top: 10px;
+    color: whitesmoke;
+    font-style: normal;
+}
+
+.my_div {
+    width: 500px;
+    height: 500px;
+}
+
+.my_background {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1200px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg");
+    background-size: cover;
+}
